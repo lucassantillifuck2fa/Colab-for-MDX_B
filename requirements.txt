@@ -4,4 +4,4 @@ librosa==0.9.1
 tqdm
 pathvalidate
 yt_dlp
-numpy
+numpy==1.23.5
